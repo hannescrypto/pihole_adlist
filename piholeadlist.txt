@@ -9,6 +9,7 @@
 0.0.0.0 surveys.hotjar.com
 0.0.0.0 events.hotjar.io
 0.0.0.0 tools.mouseflow.com
+0.0.0.0 mouseflow.com
 0.0.0.0 cdn-test.mouseflow.com
 0.0.0.0 freshmarketer.com
 0.0.0.0 claritybt.freshmarketer.com
@@ -20,7 +21,9 @@
 0.0.0.0 api.bugsnag.com
 0.0.0.0 app.bugsnag.com
 0.0.0.0 browser.sentry-cdn.com
+0.0.0.0 sentry-cdn.com
 0.0.0.0 app.getsentry.com
+0.0.0.0 getsentry.com
 0.0.0.0 events.reddit.com
 0.0.0.0 widgets.pinterest.com
 0.0.0.0 ads-api.tiktok.com
